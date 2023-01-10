@@ -9,11 +9,11 @@ body {
 	padding: 20px;
 	max-width: 65ch;
 	text-align: left;
-	background-color: #fff;
+	background-color: rgb(24, 24, 25);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: #444;
+	color: rgb(211, 214, 229);
 }
 h1,
 h2,
@@ -23,10 +23,10 @@ h5,
 h6,
 strong,
 b {
-	color: #222;
+	color: rgb(188, 195, 216);
 }
 a {
-	color: #3273dc;
+	color: #dadada;
 }
 nav a {
 	margin-right: 10px;
@@ -47,10 +47,14 @@ table {
 img {
 	max-width: 100%;
 	height: auto;
+	border-radius: 1rem;
+	border: 2px solid;
+	border-color: #4c4d51;
 }
 code {
 	padding: 2px 5px;
-	background-color: #f2f2f2;
+	background-color: #3e3f40;
+	border-radius: 1rem;
 }
 pre {
 	padding: 1rem;

@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "About Me"
-description: "Lorem ipsum dolor sit amet"
+title: "Tal vez, de interes"
+description: "Algo de informacion personal sobre el autor de estas lineas"
 updatedDate: "August 08 2022"
 heroImage: "/placeholder-about.jpg"
 ---
